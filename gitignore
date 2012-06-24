@@ -1,0 +1,14 @@
+# Backup files
+*~
+
+# Eclipse configuration files
+.classpath
+.settings
+.project
+
+# Mac OS generated files
+.DS_Store
+.AppleDouble
+
+# Maven generated files
+target
