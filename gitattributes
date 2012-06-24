@@ -1,18 +1,3 @@
-# Backup files
-*~
-
-# Eclipse configuration files
-.classpath
-.settings
-.project
-
-# Mac OS files
-.DS_Store
-.AppleDouble
-
-# Maven files
-target
-viki:middle laurent$ cat .gitattributes
 # Set default behaviour, in case users don't have core.autocrlf set.
 * text=auto
 
@@ -20,6 +5,8 @@ viki:middle laurent$ cat .gitattributes
 *.html text
 *.java text
 *.jsp text
+*.md text
+*.markdown text
 *.properties text
 *.xml text
 
