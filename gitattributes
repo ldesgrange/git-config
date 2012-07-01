@@ -5,9 +5,13 @@
 *.html text
 *.java text
 *.jsp text
+*.jspf text
 *.md text
 *.markdown text
 *.properties text
+*.sh text
+*.sql text
+*.tag text
 *.xml text
 
 # Denote all files that are truly binary and should not be modified.
